@@ -22,5 +22,11 @@
         "key": "key1234",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6d8cb0fc5584ccb4",
+        "key": "JAVAD",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
     }
 ]
