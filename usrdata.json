@@ -46,5 +46,11 @@
         "key": "SAJAD",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5593d1362d076eb7",
+        "key": "ABOL",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false
     }
 ]
