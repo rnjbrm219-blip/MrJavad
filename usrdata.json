@@ -34,5 +34,11 @@
         "key": "MR",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7f26299a3662fd6a",
+        "key": "amir",
+        "expirydate": "20-06-2025",
+        "Allowoffline": false
     }
 ]
