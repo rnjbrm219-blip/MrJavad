@@ -64,5 +64,11 @@
         "key": "hhhhh",
         "expirydate": "15-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9a0e12e42c79f21a",
+        "key": "ErEn",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
     }
 ]
