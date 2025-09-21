@@ -76,10 +76,11 @@
         "key": "Nettex",
         "expirydate": "15-12-2025",
         "Allowoffline": false
-    },{
-        "device_id": "a82272f01dcb74b9",
-        "key": "nnnn",
-        "expirydate": "21-09-2025",
+    },
+    {
+        "device_id": "228bdc69881ab9e5",
+        "key": "nnn",
+        "expirydate": "22-09-2025",
         "Allowoffline": false
     }
 ]
