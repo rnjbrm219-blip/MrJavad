@@ -28,5 +28,11 @@
         "key": "SaJi",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2af8fcd18916e6d7",
+        "key": "OXID",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
