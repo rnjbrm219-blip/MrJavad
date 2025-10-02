@@ -22,5 +22,11 @@
         "key": "AMIR",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e0db484be21722f7",
+        "key": "SaJi",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
