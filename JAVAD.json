@@ -41,4 +41,10 @@
         "expirydate": "15-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "f1e10a8c152f84bf",
+        "key": "sam",
+        "expirydate": "15-10-2025",
+        "Allowoffline": false
+    }
 ]
