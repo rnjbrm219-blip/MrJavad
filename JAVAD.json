@@ -44,7 +44,13 @@
     {
         "device_id": "f1e10a8c152f84bf",
         "key": "sam",
-        "expirydate": "15-10-2025",
+        "expirydate": "15-10-2024",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "228bdc69881ab9e5",
+        "key": "silver",
+        "expirydate": "15-10-2026",
         "Allowoffline": false
     }
 ]
