@@ -50,7 +50,13 @@
     {
         "device_id": "228bdc69881ab9e5",
         "key": "silver",
-        "expirydate": "15-10-2024",
+        "expirydate": "15-10-2023",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "7f26299a3662fd6a",
+        "key": "javad",
+        "expirydate": "15-10-2026",
         "Allowoffline": false
     }
 ]
