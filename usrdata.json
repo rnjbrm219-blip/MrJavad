@@ -100,5 +100,11 @@
         "key": "MR1",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4ffae0051188403e",
+        "key": "admin",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
 ]
