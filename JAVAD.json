@@ -37,7 +37,7 @@
     },
     {
         "device_id": "0447cc8d07e21e9b",
-        "key": "admin",
+        "key": "admi",
         "expirydate": "15-10-2025",
         "Allowoffline": false
     },
@@ -62,6 +62,12 @@
     {
         "device_id": "3fb0b8fae377fc44",
         "key": "sajad",
+        "expirydate": "15-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "cb2d30b5334c4230",
+        "key": "belara",
         "expirydate": "15-10-2026",
         "Allowoffline": false
     }
