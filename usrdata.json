@@ -115,7 +115,13 @@
     },
     {
         "device_id": "d5c13b501832f4f3",
-        "key": "1234",
+        "key": "",
+        "expirydate": "30-09-2024",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "cb2d30b5334c4230",
+        "key": "test2",
         "expirydate": "30-09-2026",
         "Allowoffline": false
     }
