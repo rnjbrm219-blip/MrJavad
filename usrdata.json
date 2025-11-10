@@ -166,5 +166,11 @@
         "key": "123457",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "228bdc69881ab9e5",
+        "key": "mmd",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
 ]
