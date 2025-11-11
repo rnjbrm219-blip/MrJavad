@@ -172,5 +172,11 @@
         "key": "mmd",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e52690440300bf36",
+        "key": "Sibyz",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
 ]
