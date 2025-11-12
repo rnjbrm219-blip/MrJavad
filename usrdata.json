@@ -178,5 +178,11 @@
         "key": "Sibyz",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "21d055037211bbdb",
+        "key": "scopi",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
 ]
