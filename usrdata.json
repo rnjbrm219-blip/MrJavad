@@ -190,5 +190,11 @@
         "key": "love",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5c1410cc0149633b",
+        "key": "MARIO",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
 ]
