@@ -70,5 +70,11 @@
         "key": "belara",
         "expirydate": "15-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5c1410cc0149633b",
+        "key": "123456",
+        "expirydate": "15-10-2026",
+        "Allowoffline": false
     }
 ]
