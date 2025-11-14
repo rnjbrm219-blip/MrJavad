@@ -182,6 +182,12 @@
     {
         "device_id": "21d055037211bbdb",
         "key": "scopi",
+        "expirydate": "30-09-2024",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "2ed6bbcf845a21b2",
+        "key": "love",
         "expirydate": "30-09-2026",
         "Allowoffline": false
     }
