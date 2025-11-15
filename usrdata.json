@@ -202,5 +202,11 @@
         "key": "121212",
         "expirydate": "12-11-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "af437399980a3861",
+        "key": "YASIN",
+        "expirydate": "12-11-2026",
+        "Allowoffline": false
     }
 ]
