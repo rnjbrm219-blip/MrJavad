@@ -214,5 +214,11 @@
         "key": "TT ff",
         "expirydate": "12-11-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2af8fcd18916e6d7",
+        "key": "MR123456",
+        "expirydate": "12-11-2026",
+        "Allowoffline": false
     }
 ]
