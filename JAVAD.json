@@ -88,5 +88,11 @@
         "key": "testyu",
         "expirydate": "15-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2af8fcd18916e6d7",
+        "key": "ox",
+        "expirydate": "15-10-2026",
+        "Allowoffline": false
     }
 ]
