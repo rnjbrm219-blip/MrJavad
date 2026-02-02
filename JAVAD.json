@@ -94,5 +94,11 @@
         "key": "ox",
         "expirydate": "15-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "99331ae47c01c44e",
+        "key": "mani",
+        "expirydate": "15-10-2026",
+        "Allowoffline": false
     }
 ]
